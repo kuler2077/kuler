@@ -6,7 +6,7 @@ public class Study {
             if (i % 2 == 0) {
                 System.out.println("i = " + i);
             }
-
+            //6666666
         }
     }
 
