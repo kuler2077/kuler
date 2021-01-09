@@ -7,6 +7,7 @@ public class Study {
                 System.out.println("i = " + i);
             }
             //6666666
+            //7777777
         }
     }
 
