@@ -6,6 +6,7 @@ public class PlayGround {
         chinese.sayHello();
         chinese.myCountry();
         LanguageService a = new American();
+        a.myCountry();
         a.sayHello();
     }
 }
