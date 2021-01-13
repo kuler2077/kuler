@@ -10,4 +10,7 @@ public class American implements LanguageService{
     public void myCountry() {
         System.out.println("USA");
     }
+    public void sayAge(){
+        System.out.println("18");
+    }
 }
