@@ -11,8 +11,6 @@ public class Study02 {
     }
 
     public static boolean judge(int a) {
-        if ((a % 2) == 0) {
-            return true;
-        } else return false;
+        return (a % 2) == 0;
     }
 }
